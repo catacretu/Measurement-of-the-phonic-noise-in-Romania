@@ -1,23 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 15 12:10:14 2021
-
-@author: alexa
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 18 13:55:29 2020
-
-@author: alexa
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 17 18:42:23 2020
-
-@author: alexa
-"""
 import json
 import requests 
 from zipfile import ZipFile
